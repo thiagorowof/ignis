@@ -1,22 +1,23 @@
-.App {
-  text-align: center;
+.bg-dark{
+  background-color: black;
 }
 
-.App-logo {
-  height: 40vmin;
+.navbar-light .navbar-brand{
+  color:white !important;
+  margin: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.navbar-light .navbar-toggler{
+  border: none;
+}
+
+.btn-primary{
+  background-color: #AF1212 !important;
+  border: none;
+  width: 100%;
+  height: 15vh;
+}
+
+.navbar-light .navbar-nav .nav-link{
   color: white;
-}
-
-.App-link {
-  color: #09d3ac;
 }
