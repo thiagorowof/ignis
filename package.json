@@ -13,7 +13,7 @@
     "react-geolocated": "^3.0.1",
     "react-google-maps": "^9.4.5",
     "react-html5-camera-photo": "^1.4.3",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "use-position": "0.0.6"
   },
   "scripts": {
